@@ -22,8 +22,6 @@
 
 ## 📩 Contact
 📧 **Email :** contact@ai-concept.fr  
-📍 **Adresse :** [Adresse physique de l'entreprise]  
-📞 **Téléphone :** [Numéro de contact]
 
 Suivez-nous sur [LinkedIn](https://www.linkedin.com/company/avenir-ingenierie-concept/) pour rester informé des dernières actualités !
 
